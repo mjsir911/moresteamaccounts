@@ -31,3 +31,19 @@ You should only be asked to log in once on initial setup.
 - Stores steam credentials on disk (encrypted)
 - Leaks password on task manager (outlined [here](https://www.reddit.com/r/Steam/comments/ake9st/switching_steam_accounts_without_having_to_type/ef9ezpy/))
 - Compiled C# application
+
+### [SAM](https://github.com/rex706/SAM)
+- Graphical Interface
+- More featureful / Provides more information for chooseable accounts
+- Compiled C# application
+
+### [SteamAccountManager](https://github.com/Longoon12000/SteamAccountManager)
+- Graphical Interface
+- Offloads credential storage to steam
+- Simple
+- Compiled C# application
+- [More alternatives listed](https://github.com/Longoon12000/SteamAccountManager#alternatives)
+
+### [Steam-Account-Manager](https://github.com/kpuc313/Steam-Account-Manager)
+- Interactive batch file
+- Offloads credential storage to steam

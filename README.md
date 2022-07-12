@@ -18,9 +18,10 @@ Example:
 
 And then just click on the one that you want to log in as!
 
-**Note**: The first time you run the scripts, you may need to log in to your
-steam account. **Please click "Remember password" for this script to work**,
-and don't log out, just click on another launch file to switch.
+> **_NOTE_**:
+> The first time you run the scripts, you may need to log in to your steam
+> account. **Please click "Remember password" for this script to work**, and
+> don't log out, just click on another launch file to switch.
 
 You should only be asked to log in once on initial setup.
 
